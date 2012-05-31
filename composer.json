@@ -1,0 +1,24 @@
+{
+	"name": "takyam/mb-util",
+	"description": "Utility for Multibyte strings in UTF-8",
+	"type": "library",
+	"keywords": ["multibyte", "utf-8", "utf8", "trim", "string", "mb", "multi byte", "mb_trim"],
+	"homepage": "http://takl.org",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "takyam",
+			"twiter": "@takyam"
+			"homepage": "http://takl.org"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"psr-0": {
+			"": "src/MbUtil/",
+			"MbUtil": "src/"
+		}
+	}
+}
