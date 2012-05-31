@@ -1,6 +1,6 @@
 {
 	"name": "takyam/mb-util",
-	"description": "Utility for Multibyte strings in UTF-8",
+	"description": "Utility for multibyte strings of UTF-8",
 	"type": "library",
 	"keywords": ["multibyte", "utf-8", "utf8", "trim", "string", "mb", "multi byte", "mb_trim"],
 	"homepage": "http://takl.org",
